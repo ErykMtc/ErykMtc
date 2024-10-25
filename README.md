@@ -18,8 +18,14 @@ I graduated from the Cracow University of Technology with a degree in Computer S
 
 ## 🌟 Github Stats
 
-<div align="center">
+<details>
+  <summary>Click to view stats</summary>
+  
+  <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErykMtc&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4)
+  <div align="center">
 
-</div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErykMtc&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4)
+
+  </div>
+</details>
